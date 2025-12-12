@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "QuanLyTaiChinh",
-    "slug": "quanlytaichinh",
+    "slug": "quan-ly-tai-chinh",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
